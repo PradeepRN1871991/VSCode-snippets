@@ -34,7 +34,7 @@
 		"\t}",
 		"\t#Parameters to create new List",
 "\t\\$SiteURL='http://Test.com/'",
-"\t\\$ListName = 'Customer Directory'",
+"\t\\$ListName = 'customlist name'",
  "\t#Call the function to create new custom list",
 "\t Create-List \\$SiteURL \\$ListName"
 			]
